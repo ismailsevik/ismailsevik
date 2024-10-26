@@ -1,2 +1,3 @@
-## İntro
-Bu proje statik bir blog projesidir. Yakında geliştirilmeye başlanacaktır.
+## Takdim
+Kod ve kelimerin yazarı.
+[https://www.ismailsevik.com](https://www.ismailsevik.com)
